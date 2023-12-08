@@ -3,7 +3,8 @@
 Im a computer science student at CSUF I expect to gradute in 2027.
 
 # Computer Science Projects
-My Github page is http://github.com/IvanP1019
+My Github page is     IvanP1019.github.io
+
 
 ## Favorite CPSC 120L Labs
 * # Lab 4
